@@ -5,9 +5,6 @@ This repository contains a weather web app built using CSS and JavaScript.
 ## Features
 
 - Get weather info from every city around the globe.
-- Mark todos as completed with left click.
-- Delete completed todos or those no longer needed with right click.
-- Save todos to the local storage for persistent data.
 
 ## Screenshots
 
